@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-acharya-554ab3283" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" alt="aditya-acharya-554ab3283" height="30" width="40" /></a>
-<a href="https://kaggle.com/acharyaworksaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="acharyaworksaditya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adi_acharya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adi_acharya17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adityaacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityaacharya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-acharya-554ab3283" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" alt="aditya-acharya-554ab3283" height="30" width="30" /></a>
+<a href="https://kaggle.com/acharyaworksaditya" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="acharyaworksaditya" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/adi_acharya17" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="adi_acharya17" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/adityaacharya" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="adityaacharya" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
